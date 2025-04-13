@@ -2,12 +2,16 @@
 
 <div align="center">
   <h3> 清蟲程算 - 出入平安 </h3>
-  <h3> Thanh Trùng Trình Toán - Xuất Nhập Bình An </h3>
+  <h4> Thanh Trùng Trình Toán - Xuất Nhập Bình An </h4>
 </div>
+
+---
 
 ![BoywithSickle_transparent_rescale](https://github.com/user-attachments/assets/36192ed2-7d29-41c9-a70f-ff768fb3501f)
 
-# About Me 🐢
+---
+
+## About Me 🐢
 <div>
   <h3>🐎 Greetings, My name is Lê Đinh Chánh Quy </h3>
   <ul>
@@ -18,7 +22,7 @@
   </ul>
 </div>
 
-# Socials
+## Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chanhquy247) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/formality.ledinh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhquyledinh/) 
