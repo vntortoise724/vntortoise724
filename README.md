@@ -2,6 +2,7 @@
 
 <div align="center">
   <h3> 清蟲程算 - 出入平安 </h3>
+  <h3> Thanh Trùng Trình Toán - Xuất Nhập Bình An </h3>
 </div>
 
 ![BoywithSickle_transparent_rescale](https://github.com/user-attachments/assets/36192ed2-7d29-41c9-a70f-ff768fb3501f)
