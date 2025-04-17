@@ -7,7 +7,7 @@
 
 ---
 
-![BoywithSickle_transparent_rescale](https://github.com/user-attachments/assets/36192ed2-7d29-41c9-a70f-ff768fb3501f)
+![BoywithSickle_transparent_rescale](https://github.com/user-attachments/assets/1f11b877-49d4-4f66-829b-331e857e18ad)
 
 ---
 
