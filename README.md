@@ -18,7 +18,7 @@
     <li>🖥️ Studying <strong>Game Development & Design</strong></li>
     <li>🎨 Enjoyed learning <strong>Digital Illustration & Video Games Arts</strong></li>
     <li>📖 Enthusing <strong>Philosophy, Logic, Cultural History, Sino - Nôm scripts & Instrumental Music</strong></li>
-    <li>🧮 I can be "Jack of all trades" in video game development if having enough resource</li>
+    <li>🧮 I can be <strong>"Jack of all trades"</strong> in video game development if having enough resources</li>
     <li>🌏 Hoping to connect with cool devs who love game craft and narrative design</li>
   </ul>
 </div>
