@@ -64,11 +64,3 @@
 ```
 
 ---
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=vntortoise724&theme=yellowdark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
