@@ -8,22 +8,19 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1f11b877-49d4-4f66-829b-331e857e18ad" width="500">
+  <img src="https://github.com/user-attachments/assets/1f11b877-49d4-4f66-829b-331e857e18ad" width="50%">
+  <p></p><i>My Artwork - The boy with a sickle</i></p>
 </div>
 
 ---
 
 ## About Me 🐢
-<div>
-  <h3>🐎 Greetings, My name is Lê Đinh Chánh Quy </h3>
-  <ul>
-    <li>🖥️ Studying <strong>Game Development & Design</strong></li>
-    <li>🎨 Enjoyed learning <strong>Digital Illustration & Video Games Arts</strong></li>
-    <li>📖 Enthused <strong>Philosophy, Logic, Cultural History, Sino - Nôm scripts & Instrumental Music</strong></li>
-    <li>🧮 I can be <strong>"Jack of all trades"</strong> in video game development if having enough resources</li>
-    <li>🌏 Hoping to connect with cool devs who love game craft and narrative design</li>
-  </ul>
-</div>
+Greeting, I am an IT Engineer, Game Developer and Amateur Artist. My dream career is to become a Technical Artist. 
+  - 🖥️ I currently study **Unity Game Development, Video Game Design with some IT technical knowledge of .NET framework**.
+  - 🎨 I also enjoy learning **Digtial Illustration, Concept & Video Game Arts**
+  - 📖 I am enthusing with **Philoshoy, Logic, Cultural History & Instrumental Music**
+  - 🧮 From what I understand, I can be a _**Jack of all trades**_ in video game development. I just need to understand more about game balancing and optimization
+  - 🌏 Hoping to connect with cool developers who love making games!!
 
 ## Socials
 [![Github](https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github)](https://github.com/vntortoise724)
