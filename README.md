@@ -35,6 +35,8 @@
 ![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-%23663399?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge)
 
